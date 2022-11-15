@@ -61,7 +61,7 @@ max-width: 100% !important;
 }
 
 #button-1{
-    background-color: limegreen;
+    background-color: #9BF00B;
 }
 
 #button-2{
@@ -69,14 +69,14 @@ max-width: 100% !important;
 }
 
 #button-3{
-    background-color: limegreen;
+    background-color: #9BF00B;
     border: none;
     width: 200px;
     font-weight: bold;
 }
 
 #button-4{
-    background-color: limegreen;
+    background-color: #9BF00B;
 }
 
 #button-5{
@@ -102,7 +102,7 @@ max-width: 100% !important;
 }
 
 #button-9, #button-10{
-    background-color: limegreen;
+    background-color: #9BF00B;
     display: inline-block;
     width: 200px;
     margin: 2px;
