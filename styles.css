@@ -2,6 +2,10 @@ body{
     background-image: url("./Webpage-Background-Paper.jpg");
 }
 
+.me-2 {
+    display: none;
+}
+
 .dropdown-toggle::after {
     content: none;
 }
@@ -17,6 +21,8 @@ body{
 .h2, h2 {
     font-size: 3rem;
     font-weight: 900;
+    text-transform: uppercase !important;
+
 }
 
 .cn-fl{
@@ -108,6 +114,10 @@ max-width: 100% !important;
     margin: 2px;
     border: none;
     font-weight: bold;
+}
+
+.btn-9-10{
+    margin-bottom: 60px;
 }
 
 #inner-sect-p-1, #inner-sect-p-2, #inner-sect-p-3, #basketball-p{
